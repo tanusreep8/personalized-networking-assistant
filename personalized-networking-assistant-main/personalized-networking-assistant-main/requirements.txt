@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+wikipedia-api
+pytest
+httpx
